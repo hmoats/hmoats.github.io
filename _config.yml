@@ -1,5 +1,6 @@
-title: Modernist theme
-description: Modernist is a theme for GitHub Pages.
-show_downloads: true
+title: hmoats.github.io
+description: Collection of projects, labs, notes, tips, docs, etc.
+show_downloads: false
 google_analytics:
-theme: jekyll-theme-modernist
+theme: jekyll-theme-modernisttitle: hmoats.github.io
+google_analytics: [UA-150074282-1]
