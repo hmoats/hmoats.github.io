@@ -6,8 +6,6 @@ layout: default
 
 **Table of contents**
 * [Utilities](#utilities)
-* [Infrastructure Operations](#infrastructure-operations)
-* [Datacenter and Network Operations](#datacenter-and-network-operations)
 
 ---
 
