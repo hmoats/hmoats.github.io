@@ -6,7 +6,7 @@ layout: default
 
 ---
 
-## Players
+## Players (10)
 
 - Collin
 - Henry
@@ -21,7 +21,12 @@ layout: default
 
 ## Rules
 
-Each player will pick mens and womens winners for the round of 16 to the final. You will pick 8 players in the round of 16, 4 players in the quarters, 2 players in the semis and then then 1 for the finals. 20 dollar is the pool fee and will be split between the mens and womens draw.
+Each player will pick men's and women's winners for the round of 16 to the final. You will pick 8 players in the round of 16, 4 players in the quarters, 2 players in the semis and then then 1 for the finals. 20 dollar is the pool buyin which is then split between the men's and women's draw.
+
+**Steps:**
+
+1. Fill out pool form (Henry will send the link)
+2. Watch the results daily on this page or in whatsapp where Henry will post daily.
 
 ### Payout:
 
