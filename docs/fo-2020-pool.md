@@ -38,8 +38,7 @@ Each player will pick men's and women's winners for the round of 16 to the final
 - Tim
 - Ying
 
-## Player's Picks
-### Timmy
+### Collin
 #### Men's Draw
 * Men's round 16
 ** DJOKOVIC SRB N.Djokovic (1)
@@ -48,7 +47,7 @@ Each player will pick men's and women's winners for the round of 16 to the final
 ** TSITSIPAS GRE S.Tsitsipas (5)
 ** SCHWARTZMAN ARG D.Schwartzman (12)
 ** THIEM AUT D.Thiem (3)
-** ZVEREV GER A.Zverev (6)
+** SINNER ITA J.Sinner
 ** NADAL ESP R.Nadal (2)
 * Men's Quarters
 ** DJOKOVIC SRB N.Djokovic (1)
@@ -59,7 +58,48 @@ Each player will pick men's and women's winners for the round of 16 to the final
 ** DJOKOVIC SRB N.Djokovic (1)
 ** NADAL ESP R.Nadal (2)
 * Men's Finals
+** DJOKOVIC SRB N.Djokovic (1)
+#### Women's Draw
+* Women's round 16
+** HALEP ROU S.Halep (1)
+** BERTENS NED K.Bertens (5)
+** SVITOLINA UKR E.Svitolina (3)
+** KREJCIKOVA CZE B.Krejcikova
+** JABEUR TUN O.Jabeur (30)
+** KENIN USA S.Kenin (4)
+** KVITOVA CZE P.Kvitova (7)
+** SIEGEMUND GER L.Siegemund
+* Women's Quarters
+** HALEP ROU S.Halep (1)
+** SVITOLINA UKR E.Svitolina (3)
+** JABEUR TUN O.Jabeur (30)
+** KVITOVA CZE P.Kvitova (7)
+* Women's Semis
+** HALEP ROU S.Halep (1)
+** KVITOVA CZE P.Kvitova (7)
+* Women's Finals
+** HALEP ROU S.Halep (1)
+### Henry
+#### Men's Draw
+* Men's round 16
+** DJOKOVIC SRB N.Djokovic (1)
+** CARRENO BUSTA ESP P.Carreno Busta (17)
+** RUBLEV RUS A.Rublev (13)
+** TSITSIPAS GRE S.Tsitsipas (5)
+** SCHWARTZMAN ARG D.Schwartzman (12)
+** THIEM AUT D.Thiem (3)
+** SINNER ITA J.Sinner
 ** NADAL ESP R.Nadal (2)
+* Men's Quarters
+** DJOKOVIC SRB N.Djokovic (1)
+** RUBLEV RUS A.Rublev (13)
+** THIEM AUT D.Thiem (3)
+** NADAL ESP R.Nadal (2)
+* Men's Semis
+** DJOKOVIC SRB N.Djokovic (1)
+** NADAL ESP R.Nadal (2)
+* Men's Finals
+** DJOKOVIC SRB N.Djokovic (1)
 #### Women's Draw
 * Women's round 16
 ** HALEP ROU S.Halep (1)
@@ -77,10 +117,10 @@ Each player will pick men's and women's winners for the round of 16 to the final
 ** KVITOVA CZE P.Kvitova (7)
 * Women's Semis
 ** HALEP ROU S.Halep (1)
-** KENIN USA S.Kenin (4)
+** KVITOVA CZE P.Kvitova (7)
 * Women's Finals
 ** HALEP ROU S.Halep (1)
-### Ying Xue
+### IPA Ray
 #### Men's Draw
 * Men's round 16
 ** DJOKOVIC SRB N.Djokovic (1)
@@ -98,6 +138,47 @@ Each player will pick men's and women's winners for the round of 16 to the final
 ** NADAL ESP R.Nadal (2)
 * Men's Semis
 ** DJOKOVIC SRB N.Djokovic (1)
+** THIEM AUT D.Thiem (3)
+* Men's Finals
+** THIEM AUT D.Thiem (3)
+#### Women's Draw
+* Women's round 16
+** HALEP ROU S.Halep (1)
+** BERTENS NED K.Bertens (5)
+** SVITOLINA UKR E.Svitolina (3)
+** PODOROSKA ARG N.Podoroska
+** JABEUR TUN O.Jabeur (30)
+** KENIN USA S.Kenin (4)
+** KVITOVA CZE P.Kvitova (7)
+** SIEGEMUND GER L.Siegemund
+* Women's Quarters
+** HALEP ROU S.Halep (1)
+** SVITOLINA UKR E.Svitolina (3)
+** KENIN USA S.Kenin (4)
+** KVITOVA CZE P.Kvitova (7)
+* Women's Semis
+** HALEP ROU S.Halep (1)
+** KENIN USA S.Kenin (4)
+* Women's Finals
+** HALEP ROU S.Halep (1)
+### Keith
+#### Men's Draw
+* Men's round 16
+** DJOKOVIC SRB N.Djokovic (1)
+** ALTMAIER GER D.Altmaier
+** RUBLEV RUS A.Rublev (13)
+** TSITSIPAS GRE S.Tsitsipas (5)
+** SCHWARTZMAN ARG D.Schwartzman (12)
+** THIEM AUT D.Thiem (3)
+** ZVEREV GER A.Zverev (6)
+** NADAL ESP R.Nadal (2)
+* Men's Quarters
+** DJOKOVIC SRB N.Djokovic (1)
+** THIEM AUT D.Thiem (3)
+** ZVEREV GER A.Zverev (6)
+** NADAL ESP R.Nadal (2)
+* Men's Semis
+** DJOKOVIC SRB N.Djokovic (1)
 ** NADAL ESP R.Nadal (2)
 * Men's Finals
 ** DJOKOVIC SRB N.Djokovic (1)
@@ -106,11 +187,11 @@ Each player will pick men's and women's winners for the round of 16 to the final
 ** HALEP ROU S.Halep (1)
 ** BERTENS NED K.Bertens (5)
 ** SVITOLINA UKR E.Svitolina (3)
-** KREJCIKOVA CZE B.Krejcikova
+** PODOROSKA ARG N.Podoroska
 ** COLLINS USA D.Collins
 ** KENIN USA S.Kenin (4)
 ** KVITOVA CZE P.Kvitova (7)
-** SIEGEMUND GER L.Siegemund
+** BADOSA ESP P.Badosa
 * Women's Quarters
 ** HALEP ROU S.Halep (1)
 ** SVITOLINA UKR E.Svitolina (3)
@@ -203,170 +284,6 @@ Each player will pick men's and women's winners for the round of 16 to the final
 ** KVITOVA CZE P.Kvitova (7)
 * Women's Finals
 ** HALEP ROU S.Halep (1)
-### Henry
-#### Men's Draw
-* Men's round 16
-** DJOKOVIC SRB N.Djokovic (1)
-** CARRENO BUSTA ESP P.Carreno Busta (17)
-** RUBLEV RUS A.Rublev (13)
-** TSITSIPAS GRE S.Tsitsipas (5)
-** SCHWARTZMAN ARG D.Schwartzman (12)
-** THIEM AUT D.Thiem (3)
-** SINNER ITA J.Sinner
-** NADAL ESP R.Nadal (2)
-* Men's Quarters
-** DJOKOVIC SRB N.Djokovic (1)
-** RUBLEV RUS A.Rublev (13)
-** THIEM AUT D.Thiem (3)
-** NADAL ESP R.Nadal (2)
-* Men's Semis
-** DJOKOVIC SRB N.Djokovic (1)
-** NADAL ESP R.Nadal (2)
-* Men's Finals
-** DJOKOVIC SRB N.Djokovic (1)
-#### Women's Draw
-* Women's round 16
-** HALEP ROU S.Halep (1)
-** BERTENS NED K.Bertens (5)
-** SVITOLINA UKR E.Svitolina (3)
-** KREJCIKOVA CZE B.Krejcikova
-** JABEUR TUN O.Jabeur (30)
-** KENIN USA S.Kenin (4)
-** KVITOVA CZE P.Kvitova (7)
-** BADOSA ESP P.Badosa
-* Women's Quarters
-** HALEP ROU S.Halep (1)
-** SVITOLINA UKR E.Svitolina (3)
-** KENIN USA S.Kenin (4)
-** KVITOVA CZE P.Kvitova (7)
-* Women's Semis
-** HALEP ROU S.Halep (1)
-** KVITOVA CZE P.Kvitova (7)
-* Women's Finals
-** HALEP ROU S.Halep (1)
-### Big Loser Lover Ray
-#### Men's Draw
-* Men's round 16
-** KHACHANOV RUS K.Khachanov (15)
-** ALTMAIER GER D.Altmaier
-** FUCSOVICS HUN M.Fucsovics
-** DIMITROV BUL G.Dimitrov (18)
-** SONEGO ITA L.Sonego
-** GASTON FRA H.Gaston
-** SINNER ITA J.Sinner
-** KORDA USA S.Korda
-* Men's Quarters
-** ALTMAIER GER D.Altmaier
-** FUCSOVICS HUN M.Fucsovics
-** SCHWARTZMAN ARG D.Schwartzman (12)
-** SINNER ITA J.Sinner
-* Men's Semis
-** ALTMAIER GER D.Altmaier
-** SONEGO ITA L.Sonego
-* Men's Finals
-** GASTON FRA H.Gaston
-#### Women's Draw
-* Women's round 16
-** SWIATEK POL I.Swiatek
-** TREVISAN ITA M.Trevisan
-** GARCIA FRA C.Garcia
-** KREJCIKOVA CZE B.Krejcikova
-** COLLINS USA D.Collins
-** FERRO FRA F.Ferro
-** ZHANG CHN S.Zhang
-** BADOSA ESP P.Badosa
-* Women's Quarters
-** TREVISAN ITA M.Trevisan
-** GARCIA FRA C.Garcia
-** FERRO FRA F.Ferro
-** ZHANG CHN S.Zhang
-* Women's Semis
-** GARCIA FRA C.Garcia
-** ZHANG CHN S.Zhang
-* Women's Finals
-** ZHANG CHN S.Zhang
-### IPA Ray
-#### Men's Draw
-* Men's round 16
-** DJOKOVIC SRB N.Djokovic (1)
-** CARRENO BUSTA ESP P.Carreno Busta (17)
-** RUBLEV RUS A.Rublev (13)
-** TSITSIPAS GRE S.Tsitsipas (5)
-** SCHWARTZMAN ARG D.Schwartzman (12)
-** THIEM AUT D.Thiem (3)
-** ZVEREV GER A.Zverev (6)
-** NADAL ESP R.Nadal (2)
-* Men's Quarters
-** DJOKOVIC SRB N.Djokovic (1)
-** TSITSIPAS GRE S.Tsitsipas (5)
-** THIEM AUT D.Thiem (3)
-** NADAL ESP R.Nadal (2)
-* Men's Semis
-** DJOKOVIC SRB N.Djokovic (1)
-** THIEM AUT D.Thiem (3)
-* Men's Finals
-** THIEM AUT D.Thiem (3)
-#### Women's Draw
-* Women's round 16
-** HALEP ROU S.Halep (1)
-** BERTENS NED K.Bertens (5)
-** SVITOLINA UKR E.Svitolina (3)
-** PODOROSKA ARG N.Podoroska
-** JABEUR TUN O.Jabeur (30)
-** KENIN USA S.Kenin (4)
-** KVITOVA CZE P.Kvitova (7)
-** SIEGEMUND GER L.Siegemund
-* Women's Quarters
-** HALEP ROU S.Halep (1)
-** SVITOLINA UKR E.Svitolina (3)
-** KENIN USA S.Kenin (4)
-** KVITOVA CZE P.Kvitova (7)
-* Women's Semis
-** HALEP ROU S.Halep (1)
-** KENIN USA S.Kenin (4)
-* Women's Finals
-** HALEP ROU S.Halep (1)
-### Big Loser Lover Ray
-#### Men's Draw
-* Men's round 16
-** KHACHANOV RUS K.Khachanov (15)
-** ALTMAIER GER D.Altmaier
-** FUCSOVICS HUN M.Fucsovics
-** DIMITROV BUL G.Dimitrov (18)
-** SONEGO ITA L.Sonego
-** GASTON FRA H.Gaston
-** SINNER ITA J.Sinner
-** KORDA USA S.Korda
-* Men's Quarters
-** ALTMAIER GER D.Altmaier
-** FUCSOVICS HUN M.Fucsovics
-** SCHWARTZMAN ARG D.Schwartzman (12)
-** SINNER ITA J.Sinner
-* Men's Semis
-** ALTMAIER GER D.Altmaier
-** SONEGO ITA L.Sonego
-* Men's Finals
-** GASTON FRA H.Gaston
-#### Women's Draw
-* Women's round 16
-** SWIATEK POL I.Swiatek
-** TREVISAN ITA M.Trevisan
-** GARCIA FRA C.Garcia
-** KREJCIKOVA CZE B.Krejcikova
-** COLLINS USA D.Collins
-** FERRO FRA F.Ferro
-** ZHANG CHN S.Zhang
-** BADOSA ESP P.Badosa
-* Women's Quarters
-** TREVISAN ITA M.Trevisan
-** GARCIA FRA C.Garcia
-** FERRO FRA F.Ferro
-** ZHANG CHN S.Zhang
-* Women's Semis
-** GARCIA FRA C.Garcia
-** ZHANG CHN S.Zhang
-* Women's Finals
-** ZHANG CHN S.Zhang
 ### Nirjhar
 #### Men's Draw
 * Men's round 16
@@ -406,129 +323,6 @@ Each player will pick men's and women's winners for the round of 16 to the final
 * Women's Semis
 ** HALEP ROU S.Halep (1)
 ** KENIN USA S.Kenin (4)
-* Women's Finals
-** HALEP ROU S.Halep (1)
-### Collin
-#### Men's Draw
-* Men's round 16
-** DJOKOVIC SRB N.Djokovic (1)
-** CARRENO BUSTA ESP P.Carreno Busta (17)
-** RUBLEV RUS A.Rublev (13)
-** TSITSIPAS GRE S.Tsitsipas (5)
-** SCHWARTZMAN ARG D.Schwartzman (12)
-** THIEM AUT D.Thiem (3)
-** SINNER ITA J.Sinner
-** NADAL ESP R.Nadal (2)
-* Men's Quarters
-** DJOKOVIC SRB N.Djokovic (1)
-** TSITSIPAS GRE S.Tsitsipas (5)
-** THIEM AUT D.Thiem (3)
-** NADAL ESP R.Nadal (2)
-* Men's Semis
-** DJOKOVIC SRB N.Djokovic (1)
-** NADAL ESP R.Nadal (2)
-* Men's Finals
-** DJOKOVIC SRB N.Djokovic (1)
-#### Women's Draw
-* Women's round 16
-** HALEP ROU S.Halep (1)
-** BERTENS NED K.Bertens (5)
-** SVITOLINA UKR E.Svitolina (3)
-** KREJCIKOVA CZE B.Krejcikova
-** JABEUR TUN O.Jabeur (30)
-** KENIN USA S.Kenin (4)
-** KVITOVA CZE P.Kvitova (7)
-** SIEGEMUND GER L.Siegemund
-* Women's Quarters
-** HALEP ROU S.Halep (1)
-** SVITOLINA UKR E.Svitolina (3)
-** JABEUR TUN O.Jabeur (30)
-** KVITOVA CZE P.Kvitova (7)
-* Women's Semis
-** HALEP ROU S.Halep (1)
-** KVITOVA CZE P.Kvitova (7)
-* Women's Finals
-** HALEP ROU S.Halep (1)
-### Keith
-#### Men's Draw
-* Men's round 16
-** DJOKOVIC SRB N.Djokovic (1)
-** ALTMAIER GER D.Altmaier
-** RUBLEV RUS A.Rublev (13)
-** TSITSIPAS GRE S.Tsitsipas (5)
-** SCHWARTZMAN ARG D.Schwartzman (12)
-** THIEM AUT D.Thiem (3)
-** ZVEREV GER A.Zverev (6)
-** NADAL ESP R.Nadal (2)
-* Men's Quarters
-** DJOKOVIC SRB N.Djokovic (1)
-** THIEM AUT D.Thiem (3)
-** ZVEREV GER A.Zverev (6)
-** NADAL ESP R.Nadal (2)
-* Men's Semis
-** DJOKOVIC SRB N.Djokovic (1)
-** NADAL ESP R.Nadal (2)
-* Men's Finals
-** DJOKOVIC SRB N.Djokovic (1)
-#### Women's Draw
-* Women's round 16
-** HALEP ROU S.Halep (1)
-** BERTENS NED K.Bertens (5)
-** SVITOLINA UKR E.Svitolina (3)
-** PODOROSKA ARG N.Podoroska
-** COLLINS USA D.Collins
-** KENIN USA S.Kenin (4)
-** KVITOVA CZE P.Kvitova (7)
-** BADOSA ESP P.Badosa
-* Women's Quarters
-** HALEP ROU S.Halep (1)
-** SVITOLINA UKR E.Svitolina (3)
-** KENIN USA S.Kenin (4)
-** KVITOVA CZE P.Kvitova (7)
-* Women's Semis
-** HALEP ROU S.Halep (1)
-** KENIN USA S.Kenin (4)
-* Women's Finals
-** HALEP ROU S.Halep (1)
-### Collin
-#### Men's Draw
-* Men's round 16
-** DJOKOVIC SRB N.Djokovic (1)
-** CARRENO BUSTA ESP P.Carreno Busta (17)
-** RUBLEV RUS A.Rublev (13)
-** TSITSIPAS GRE S.Tsitsipas (5)
-** SCHWARTZMAN ARG D.Schwartzman (12)
-** THIEM AUT D.Thiem (3)
-** SINNER ITA J.Sinner
-** NADAL ESP R.Nadal (2)
-* Men's Quarters
-** DJOKOVIC SRB N.Djokovic (1)
-** TSITSIPAS GRE S.Tsitsipas (5)
-** THIEM AUT D.Thiem (3)
-** NADAL ESP R.Nadal (2)
-* Men's Semis
-** DJOKOVIC SRB N.Djokovic (1)
-** NADAL ESP R.Nadal (2)
-* Men's Finals
-** DJOKOVIC SRB N.Djokovic (1)
-#### Women's Draw
-* Women's round 16
-** HALEP ROU S.Halep (1)
-** BERTENS NED K.Bertens (5)
-** SVITOLINA UKR E.Svitolina (3)
-** KREJCIKOVA CZE B.Krejcikova
-** JABEUR TUN O.Jabeur (30)
-** KENIN USA S.Kenin (4)
-** KVITOVA CZE P.Kvitova (7)
-** SIEGEMUND GER L.Siegemund
-* Women's Quarters
-** HALEP ROU S.Halep (1)
-** SVITOLINA UKR E.Svitolina (3)
-** JABEUR TUN O.Jabeur (30)
-** KVITOVA CZE P.Kvitova (7)
-* Women's Semis
-** HALEP ROU S.Halep (1)
-** KVITOVA CZE P.Kvitova (7)
 * Women's Finals
 ** HALEP ROU S.Halep (1)
 ### Rajeev Tiwari
@@ -572,6 +366,47 @@ Each player will pick men's and women's winners for the round of 16 to the final
 ** KVITOVA CZE P.Kvitova (7)
 * Women's Finals
 ** KVITOVA CZE P.Kvitova (7)
+### Timmy
+#### Men's Draw
+* Men's round 16
+** DJOKOVIC SRB N.Djokovic (1)
+** CARRENO BUSTA ESP P.Carreno Busta (17)
+** RUBLEV RUS A.Rublev (13)
+** TSITSIPAS GRE S.Tsitsipas (5)
+** SCHWARTZMAN ARG D.Schwartzman (12)
+** THIEM AUT D.Thiem (3)
+** ZVEREV GER A.Zverev (6)
+** NADAL ESP R.Nadal (2)
+* Men's Quarters
+** DJOKOVIC SRB N.Djokovic (1)
+** TSITSIPAS GRE S.Tsitsipas (5)
+** THIEM AUT D.Thiem (3)
+** NADAL ESP R.Nadal (2)
+* Men's Semis
+** DJOKOVIC SRB N.Djokovic (1)
+** NADAL ESP R.Nadal (2)
+* Men's Finals
+** NADAL ESP R.Nadal (2)
+#### Women's Draw
+* Women's round 16
+** HALEP ROU S.Halep (1)
+** BERTENS NED K.Bertens (5)
+** SVITOLINA UKR E.Svitolina (3)
+** KREJCIKOVA CZE B.Krejcikova
+** JABEUR TUN O.Jabeur (30)
+** KENIN USA S.Kenin (4)
+** KVITOVA CZE P.Kvitova (7)
+** BADOSA ESP P.Badosa
+* Women's Quarters
+** HALEP ROU S.Halep (1)
+** SVITOLINA UKR E.Svitolina (3)
+** KENIN USA S.Kenin (4)
+** KVITOVA CZE P.Kvitova (7)
+* Women's Semis
+** HALEP ROU S.Halep (1)
+** KENIN USA S.Kenin (4)
+* Women's Finals
+** HALEP ROU S.Halep (1)
 ### Ying Xue
 #### Men's Draw
 * Men's round 16
@@ -613,47 +448,7 @@ Each player will pick men's and women's winners for the round of 16 to the final
 ** KENIN USA S.Kenin (4)
 * Women's Finals
 ** HALEP ROU S.Halep (1)
-### Keith
-#### Men's Draw
-* Men's round 16
-** DJOKOVIC SRB N.Djokovic (1)
-** ALTMAIER GER D.Altmaier
-** RUBLEV RUS A.Rublev (13)
-** TSITSIPAS GRE S.Tsitsipas (5)
-** SCHWARTZMAN ARG D.Schwartzman (12)
-** THIEM AUT D.Thiem (3)
-** ZVEREV GER A.Zverev (6)
-** NADAL ESP R.Nadal (2)
-* Men's Quarters
-** DJOKOVIC SRB N.Djokovic (1)
-** THIEM AUT D.Thiem (3)
-** ZVEREV GER A.Zverev (6)
-** NADAL ESP R.Nadal (2)
-* Men's Semis
-** DJOKOVIC SRB N.Djokovic (1)
-** NADAL ESP R.Nadal (2)
-* Men's Finals
-** DJOKOVIC SRB N.Djokovic (1)
-#### Women's Draw
-* Women's round 16
-** HALEP ROU S.Halep (1)
-** BERTENS NED K.Bertens (5)
-** SVITOLINA UKR E.Svitolina (3)
-** PODOROSKA ARG N.Podoroska
-** COLLINS USA D.Collins
-** KENIN USA S.Kenin (4)
-** KVITOVA CZE P.Kvitova (7)
-** BADOSA ESP P.Badosa
-* Women's Quarters
-** HALEP ROU S.Halep (1)
-** SVITOLINA UKR E.Svitolina (3)
-** KENIN USA S.Kenin (4)
-** KVITOVA CZE P.Kvitova (7)
-* Women's Semis
-** HALEP ROU S.Halep (1)
-** KENIN USA S.Kenin (4)
-* Women's Finals
-** HALEP ROU S.Halep (1)
+
 
 ## Results
 
