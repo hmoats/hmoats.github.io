@@ -17,6 +17,8 @@ Each player will pick men's and women's winners for the round of 16 to the final
 
 ### Payout:
 
+Please note that if there is a tie for first place the 2nd place will NOT be paid out. The two or more first place winners will split the entire pot for that draw (mens or ladies).
+
 > - Mens 1st Place: $80 
 > - Mens 2nd Place: $20
 > - Mens 3rd Place: High five
