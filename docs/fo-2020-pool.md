@@ -59,6 +59,7 @@ Each player will pick men's and women's winners for the round of 16 to the final
   * NADAL ESP R.Nadal (2)
 * Men's Finals
   * DJOKOVIC SRB N.Djokovic (1)
+
 #### Women's Draw
 * Women's round 16
   * HALEP ROU S.Halep (1)
@@ -79,6 +80,7 @@ Each player will pick men's and women's winners for the round of 16 to the final
   * KVITOVA CZE P.Kvitova (7)
 * Women's Finals
   * HALEP ROU S.Halep (1)
+
 ### Henry
 #### Men's Draw
 * Men's round 16
@@ -100,6 +102,7 @@ Each player will pick men's and women's winners for the round of 16 to the final
   * NADAL ESP R.Nadal (2)
 * Men's Finals
   * DJOKOVIC SRB N.Djokovic (1)
+
 #### Women's Draw
 * Women's round 16
   * HALEP ROU S.Halep (1)
@@ -120,6 +123,7 @@ Each player will pick men's and women's winners for the round of 16 to the final
   * KVITOVA CZE P.Kvitova (7)
 * Women's Finals
   * HALEP ROU S.Halep (1)
+
 ### IPA Ray
 #### Men's Draw
 * Men's round 16
@@ -141,6 +145,7 @@ Each player will pick men's and women's winners for the round of 16 to the final
   * THIEM AUT D.Thiem (3)
 * Men's Finals
   * THIEM AUT D.Thiem (3)
+
 #### Women's Draw
 * Women's round 16
   * HALEP ROU S.Halep (1)
@@ -161,6 +166,7 @@ Each player will pick men's and women's winners for the round of 16 to the final
   * KENIN USA S.Kenin (4)
 * Women's Finals
   * HALEP ROU S.Halep (1)
+
 ### Keith
 #### Men's Draw
 * Men's round 16
@@ -182,6 +188,7 @@ Each player will pick men's and women's winners for the round of 16 to the final
   * NADAL ESP R.Nadal (2)
 * Men's Finals
   * DJOKOVIC SRB N.Djokovic (1)
+
 #### Women's Draw
 * Women's round 16
   * HALEP ROU S.Halep (1)
@@ -202,6 +209,7 @@ Each player will pick men's and women's winners for the round of 16 to the final
   * KENIN USA S.Kenin (4)
 * Women's Finals
   * HALEP ROU S.Halep (1)
+
 ### Master Peter
 #### Men's Draw
 * Men's round 16
@@ -223,6 +231,7 @@ Each player will pick men's and women's winners for the round of 16 to the final
   * NADAL ESP R.Nadal (2)
 * Men's Finals
   * DJOKOVIC SRB N.Djokovic (1)
+
 #### Women's Draw
 * Women's round 16
   * HALEP ROU S.Halep (1)
@@ -243,6 +252,7 @@ Each player will pick men's and women's winners for the round of 16 to the final
   * KENIN USA S.Kenin (4)
 * Women's Finals
   * HALEP ROU S.Halep (1)
+
 ### Nghia D.
 #### Men's Draw
 * Men's round 16
@@ -264,6 +274,7 @@ Each player will pick men's and women's winners for the round of 16 to the final
   * THIEM AUT D.Thiem (3)
 * Men's Finals
   * DJOKOVIC SRB N.Djokovic (1)
+
 #### Women's Draw
 * Women's round 16
   * HALEP ROU S.Halep (1)
@@ -284,6 +295,7 @@ Each player will pick men's and women's winners for the round of 16 to the final
   * KVITOVA CZE P.Kvitova (7)
 * Women's Finals
   * HALEP ROU S.Halep (1)
+
 ### Nirjhar
 #### Men's Draw
 * Men's round 16
@@ -305,6 +317,7 @@ Each player will pick men's and women's winners for the round of 16 to the final
   * NADAL ESP R.Nadal (2)
 * Men's Finals
   * NADAL ESP R.Nadal (2)
+
 #### Women's Draw
 * Women's round 16
   * HALEP ROU S.Halep (1)
@@ -325,6 +338,7 @@ Each player will pick men's and women's winners for the round of 16 to the final
   * KENIN USA S.Kenin (4)
 * Women's Finals
   * HALEP ROU S.Halep (1)
+
 ### Rajeev Tiwari
 #### Men's Draw
 * Men's round 16
@@ -346,6 +360,7 @@ Each player will pick men's and women's winners for the round of 16 to the final
   * NADAL ESP R.Nadal (2)
 * Men's Finals
   * NADAL ESP R.Nadal (2)
+
 #### Women's Draw
 * Women's round 16
   * SWIATEK POL I.Swiatek
@@ -366,6 +381,7 @@ Each player will pick men's and women's winners for the round of 16 to the final
   * KVITOVA CZE P.Kvitova (7)
 * Women's Finals
   * KVITOVA CZE P.Kvitova (7)
+
 ### Timmy
 #### Men's Draw
 * Men's round 16
@@ -387,6 +403,7 @@ Each player will pick men's and women's winners for the round of 16 to the final
   * NADAL ESP R.Nadal (2)
 * Men's Finals
   * NADAL ESP R.Nadal (2)
+
 #### Women's Draw
 * Women's round 16
   * HALEP ROU S.Halep (1)
@@ -407,6 +424,7 @@ Each player will pick men's and women's winners for the round of 16 to the final
   * KENIN USA S.Kenin (4)
 * Women's Finals
   * HALEP ROU S.Halep (1)
+
 ### Ying Xue
 #### Men's Draw
 * Men's round 16
@@ -428,6 +446,7 @@ Each player will pick men's and women's winners for the round of 16 to the final
   * NADAL ESP R.Nadal (2)
 * Men's Finals
   * DJOKOVIC SRB N.Djokovic (1)
+
 #### Women's Draw
 * Women's round 16
   * HALEP ROU S.Halep (1)
