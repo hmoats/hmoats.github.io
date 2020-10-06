@@ -4,6 +4,22 @@ layout: default
 
 # SRFTC French Open 2020 Pool
 
+## Contents
+
+- [Rules](#rules)
+- [Players](#players)
+  - [Collin](#collin)
+  - [Henry](#henry)
+  - [Keith](#keith)
+  - [Nghia](#nghia-d.)
+  - [Nirjhar](#nirjhar)
+  - [Pete](#master-peter)
+  - [Rajeev](#rajeev)
+  - [Raymond](#ipa-ray)
+  - [Tim](#timmmy)
+  - [Ying](#ying-xue)
+
+
 ---
 
 ## Rules
@@ -27,7 +43,7 @@ Please note that if there is a tie for first place the 2nd place will NOT be pai
 > - Womens 2nd Place: $20
 > - Womens 3rd Place: High five
 
-## Players (10)
+## Players
 
 - Collin
 - Henry
