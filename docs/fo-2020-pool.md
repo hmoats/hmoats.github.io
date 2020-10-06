@@ -473,5 +473,338 @@ Please note that if there is a tie for first place the 2nd place will NOT be pai
 ## Results
 
 ```
-[results]
+#################################################
+Player's Winners: Collin
+
+Men's round of 16 winners
+ - DJOKOVIC SRB N.Djokovic (1) +1
+ - CARRENO BUSTA ESP P.Carreno Busta (17) +1
+ - RUBLEV RUS A.Rublev (13) +1
+ - TSITSIPAS GRE S.Tsitsipas (5) +1
+ - SCHWARTZMAN ARG D.Schwartzman (12) +1
+ - THIEM AUT D.Thiem (3) +1
+ - SINNER ITA J.Sinner +1
+ - NADAL ESP R.Nadal (2) +1
+ - Round of 16 total: 8
+Men's quarter finals winners
+ - Quarter finals total: 0
+Men's semi finals winners
+ - Semi finals total: 0
+Men's finals winner
+ - Final total: 0
+[Grand total men's draw: 8]
+
+Women's round of 16 winners
+ - SVITOLINA UKR E.Svitolina (3) +1
+ - KENIN USA S.Kenin (4) +1
+ - KVITOVA CZE P.Kvitova (7) +1
+ - SIEGEMUND GER L.Siegemund +1
+ - Round of 16 total: 4
+Women's quarter finals winners
+ - Quarter finals total: 0
+Women's semi finals winners
+ - Semi finals total: 0
+Women's finals winner
+ - Final total: 0
+[Grand total women's draw: 4]
+#################################################
+Player's Winners: Henry
+
+Men's round of 16 winners
+ - DJOKOVIC SRB N.Djokovic (1) +1
+ - CARRENO BUSTA ESP P.Carreno Busta (17) +1
+ - RUBLEV RUS A.Rublev (13) +1
+ - TSITSIPAS GRE S.Tsitsipas (5) +1
+ - SCHWARTZMAN ARG D.Schwartzman (12) +1
+ - THIEM AUT D.Thiem (3) +1
+ - SINNER ITA J.Sinner +1
+ - NADAL ESP R.Nadal (2) +1
+ - Round of 16 total: 8
+Men's quarter finals winners
+ - Quarter finals total: 0
+Men's semi finals winners
+ - Semi finals total: 0
+Men's finals winner
+ - Final total: 0
+[Grand total men's draw: 8]
+
+Women's round of 16 winners
+ - SVITOLINA UKR E.Svitolina (3) +1
+ - KENIN USA S.Kenin (4) +1
+ - KVITOVA CZE P.Kvitova (7) +1
+ - Round of 16 total: 3
+Women's quarter finals winners
+ - Quarter finals total: 0
+Women's semi finals winners
+ - Semi finals total: 0
+Women's finals winner
+ - Final total: 0
+[Grand total women's draw: 3]
+#################################################
+Player's Winners: IPA Ray
+
+Men's round of 16 winners
+ - DJOKOVIC SRB N.Djokovic (1) +1
+ - CARRENO BUSTA ESP P.Carreno Busta (17) +1
+ - RUBLEV RUS A.Rublev (13) +1
+ - TSITSIPAS GRE S.Tsitsipas (5) +1
+ - SCHWARTZMAN ARG D.Schwartzman (12) +1
+ - THIEM AUT D.Thiem (3) +1
+ - NADAL ESP R.Nadal (2) +1
+ - Round of 16 total: 7
+Men's quarter finals winners
+ - Quarter finals total: 0
+Men's semi finals winners
+ - Semi finals total: 0
+Men's finals winner
+ - Final total: 0
+[Grand total men's draw: 7]
+
+Women's round of 16 winners
+ - SVITOLINA UKR E.Svitolina (3) +1
+ - PODOROSKA ARG N.Podoroska +1
+ - KENIN USA S.Kenin (4) +1
+ - KVITOVA CZE P.Kvitova (7) +1
+ - SIEGEMUND GER L.Siegemund +1
+ - Round of 16 total: 5
+Women's quarter finals winners
+ - Quarter finals total: 0
+Women's semi finals winners
+ - Semi finals total: 0
+Women's finals winner
+ - Final total: 0
+[Grand total women's draw: 5]
+#################################################
+Player's Winners: Keith
+
+Men's round of 16 winners
+ - DJOKOVIC SRB N.Djokovic (1) +1
+ - RUBLEV RUS A.Rublev (13) +1
+ - TSITSIPAS GRE S.Tsitsipas (5) +1
+ - SCHWARTZMAN ARG D.Schwartzman (12) +1
+ - THIEM AUT D.Thiem (3) +1
+ - NADAL ESP R.Nadal (2) +1
+ - Round of 16 total: 6
+Men's quarter finals winners
+ - Quarter finals total: 0
+Men's semi finals winners
+ - Semi finals total: 0
+Men's finals winner
+ - Final total: 0
+[Grand total men's draw: 6]
+
+Women's round of 16 winners
+ - SVITOLINA UKR E.Svitolina (3) +1
+ - PODOROSKA ARG N.Podoroska +1
+ - COLLINS USA D.Collins +1
+ - KENIN USA S.Kenin (4) +1
+ - KVITOVA CZE P.Kvitova (7) +1
+ - Round of 16 total: 5
+Women's quarter finals winners
+ - Quarter finals total: 0
+Women's semi finals winners
+ - Semi finals total: 0
+Women's finals winner
+ - Final total: 0
+[Grand total women's draw: 5]
+#################################################
+Player's Winners: Master Peter
+
+Men's round of 16 winners
+ - DJOKOVIC SRB N.Djokovic (1) +1
+ - CARRENO BUSTA ESP P.Carreno Busta (17) +1
+ - RUBLEV RUS A.Rublev (13) +1
+ - TSITSIPAS GRE S.Tsitsipas (5) +1
+ - SCHWARTZMAN ARG D.Schwartzman (12) +1
+ - THIEM AUT D.Thiem (3) +1
+ - NADAL ESP R.Nadal (2) +1
+ - Round of 16 total: 7
+Men's quarter finals winners
+ - Quarter finals total: 0
+Men's semi finals winners
+ - Semi finals total: 0
+Men's finals winner
+ - Final total: 0
+[Grand total men's draw: 7]
+
+Women's round of 16 winners
+ - SVITOLINA UKR E.Svitolina (3) +1
+ - PODOROSKA ARG N.Podoroska +1
+ - COLLINS USA D.Collins +1
+ - KENIN USA S.Kenin (4) +1
+ - KVITOVA CZE P.Kvitova (7) +1
+ - Round of 16 total: 5
+Women's quarter finals winners
+ - Quarter finals total: 0
+Women's semi finals winners
+ - Semi finals total: 0
+Women's finals winner
+ - Final total: 0
+[Grand total women's draw: 5]
+#################################################
+Player's Winners: Nghia D.
+
+Men's round of 16 winners
+ - DJOKOVIC SRB N.Djokovic (1) +1
+ - CARRENO BUSTA ESP P.Carreno Busta (17) +1
+ - RUBLEV RUS A.Rublev (13) +1
+ - TSITSIPAS GRE S.Tsitsipas (5) +1
+ - SCHWARTZMAN ARG D.Schwartzman (12) +1
+ - THIEM AUT D.Thiem (3) +1
+ - NADAL ESP R.Nadal (2) +1
+ - Round of 16 total: 7
+Men's quarter finals winners
+ - Quarter finals total: 0
+Men's semi finals winners
+ - Semi finals total: 0
+Men's finals winner
+ - Final total: 0
+[Grand total men's draw: 7]
+
+Women's round of 16 winners
+ - SVITOLINA UKR E.Svitolina (3) +1
+ - COLLINS USA D.Collins +1
+ - KENIN USA S.Kenin (4) +1
+ - KVITOVA CZE P.Kvitova (7) +1
+ - Round of 16 total: 4
+Women's quarter finals winners
+ - Quarter finals total: 0
+Women's semi finals winners
+ - Semi finals total: 0
+Women's finals winner
+ - Final total: 0
+[Grand total women's draw: 4]
+#################################################
+Player's Winners: Nirjhar
+
+Men's round of 16 winners
+ - DJOKOVIC SRB N.Djokovic (1) +1
+ - CARRENO BUSTA ESP P.Carreno Busta (17) +1
+ - RUBLEV RUS A.Rublev (13) +1
+ - TSITSIPAS GRE S.Tsitsipas (5) +1
+ - SCHWARTZMAN ARG D.Schwartzman (12) +1
+ - THIEM AUT D.Thiem (3) +1
+ - NADAL ESP R.Nadal (2) +1
+ - Round of 16 total: 7
+Men's quarter finals winners
+ - Quarter finals total: 0
+Men's semi finals winners
+ - Semi finals total: 0
+Men's finals winner
+ - Final total: 0
+[Grand total men's draw: 7]
+
+Women's round of 16 winners
+ - SVITOLINA UKR E.Svitolina (3) +1
+ - COLLINS USA D.Collins +1
+ - KENIN USA S.Kenin (4) +1
+ - KVITOVA CZE P.Kvitova (7) +1
+ - Round of 16 total: 4
+Women's quarter finals winners
+ - Quarter finals total: 0
+Women's semi finals winners
+ - Semi finals total: 0
+Women's finals winner
+ - Final total: 0
+[Grand total women's draw: 4]
+#################################################
+Player's Winners: Rajeev Tiwari
+
+Men's round of 16 winners
+ - DJOKOVIC SRB N.Djokovic (1) +1
+ - CARRENO BUSTA ESP P.Carreno Busta (17) +1
+ - RUBLEV RUS A.Rublev (13) +1
+ - TSITSIPAS GRE S.Tsitsipas (5) +1
+ - SCHWARTZMAN ARG D.Schwartzman (12) +1
+ - THIEM AUT D.Thiem (3) +1
+ - NADAL ESP R.Nadal (2) +1
+ - Round of 16 total: 7
+Men's quarter finals winners
+ - Quarter finals total: 0
+Men's semi finals winners
+ - Semi finals total: 0
+Men's finals winner
+ - Final total: 0
+[Grand total men's draw: 7]
+
+Women's round of 16 winners
+ - SWIATEK POL I.Swiatek +1
+ - SVITOLINA UKR E.Svitolina (3) +1
+ - PODOROSKA ARG N.Podoroska +1
+ - KVITOVA CZE P.Kvitova (7) +1
+ - Round of 16 total: 4
+Women's quarter finals winners
+ - Quarter finals total: 0
+Women's semi finals winners
+ - Semi finals total: 0
+Women's finals winner
+ - Final total: 0
+[Grand total women's draw: 4]
+#################################################
+Player's Winners: Timmy
+
+Men's round of 16 winners
+ - DJOKOVIC SRB N.Djokovic (1) +1
+ - CARRENO BUSTA ESP P.Carreno Busta (17) +1
+ - RUBLEV RUS A.Rublev (13) +1
+ - TSITSIPAS GRE S.Tsitsipas (5) +1
+ - SCHWARTZMAN ARG D.Schwartzman (12) +1
+ - THIEM AUT D.Thiem (3) +1
+ - NADAL ESP R.Nadal (2) +1
+ - Round of 16 total: 7
+Men's quarter finals winners
+ - Quarter finals total: 0
+Men's semi finals winners
+ - Semi finals total: 0
+Men's finals winner
+ - Final total: 0
+[Grand total men's draw: 7]
+
+Women's round of 16 winners
+ - SVITOLINA UKR E.Svitolina (3) +1
+ - KENIN USA S.Kenin (4) +1
+ - KVITOVA CZE P.Kvitova (7) +1
+ - Round of 16 total: 3
+Women's quarter finals winners
+ - Quarter finals total: 0
+Women's semi finals winners
+ - Semi finals total: 0
+Women's finals winner
+ - Final total: 0
+[Grand total women's draw: 3]
+#################################################
+Player's Winners: Ying Xue
+
+Men's round of 16 winners
+ - DJOKOVIC SRB N.Djokovic (1) +1
+ - CARRENO BUSTA ESP P.Carreno Busta (17) +1
+ - RUBLEV RUS A.Rublev (13) +1
+ - TSITSIPAS GRE S.Tsitsipas (5) +1
+ - SCHWARTZMAN ARG D.Schwartzman (12) +1
+ - THIEM AUT D.Thiem (3) +1
+ - NADAL ESP R.Nadal (2) +1
+ - Round of 16 total: 7
+Men's quarter finals winners
+ - Quarter finals total: 0
+Men's semi finals winners
+ - Semi finals total: 0
+Men's finals winner
+ - Final total: 0
+[Grand total men's draw: 7]
+
+Women's round of 16 winners
+ - SVITOLINA UKR E.Svitolina (3) +1
+ - COLLINS USA D.Collins +1
+ - KENIN USA S.Kenin (4) +1
+ - KVITOVA CZE P.Kvitova (7) +1
+ - SIEGEMUND GER L.Siegemund +1
+ - Round of 16 total: 5
+Women's quarter finals winners
+ - Quarter finals total: 0
+Women's semi finals winners
+ - Semi finals total: 0
+Women's finals winner
+ - Final total: 0
+[Grand total women's draw: 5]
+
 ```
