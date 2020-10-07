@@ -503,12 +503,15 @@ Men's round of 16 winners
  - NADAL ESP R.Nadal (2) +1
  - Round of 16 total: 8
 Men's quarter finals winners
- - Quarter finals total: 0
+ - DJOKOVIC SRB N.Djokovic (1) +2
+ - TSITSIPAS GRE S.Tsitsipas (5) +2
+ - NADAL ESP R.Nadal (2) +2
+ - Quarter finals total: 6
 Men's semi finals winners
  - Semi finals total: 0
 Men's finals winner
  - Final total: 0
-[Grand total men's draw: 8]
+[Grand total men's draw: 14]
 
 Women's round of 16 winners
  - SVITOLINA UKR E.Svitolina (3) +1
@@ -517,12 +520,13 @@ Women's round of 16 winners
  - SIEGEMUND GER L.Siegemund +1
  - Round of 16 total: 4
 Women's quarter finals winners
- - Quarter finals total: 0
+ - KVITOVA CZE P.Kvitova (7) +2
+ - Quarter finals total: 2
 Women's semi finals winners
  - Semi finals total: 0
 Women's finals winner
  - Final total: 0
-[Grand total women's draw: 4]
+[Grand total women's draw: 6]
 #################################################
 Player's Winners: Henry
 
@@ -537,12 +541,14 @@ Men's round of 16 winners
  - NADAL ESP R.Nadal (2) +1
  - Round of 16 total: 8
 Men's quarter finals winners
- - Quarter finals total: 0
+ - DJOKOVIC SRB N.Djokovic (1) +2
+ - NADAL ESP R.Nadal (2) +2
+ - Quarter finals total: 4
 Men's semi finals winners
  - Semi finals total: 0
 Men's finals winner
  - Final total: 0
-[Grand total men's draw: 8]
+[Grand total men's draw: 12]
 
 Women's round of 16 winners
  - SVITOLINA UKR E.Svitolina (3) +1
@@ -550,12 +556,14 @@ Women's round of 16 winners
  - KVITOVA CZE P.Kvitova (7) +1
  - Round of 16 total: 3
 Women's quarter finals winners
- - Quarter finals total: 0
+ - KENIN USA S.Kenin (4) +2
+ - KVITOVA CZE P.Kvitova (7) +2
+ - Quarter finals total: 4
 Women's semi finals winners
  - Semi finals total: 0
 Women's finals winner
  - Final total: 0
-[Grand total women's draw: 3]
+[Grand total women's draw: 7]
 #################################################
 Player's Winners: IPA Ray
 
@@ -569,12 +577,15 @@ Men's round of 16 winners
  - NADAL ESP R.Nadal (2) +1
  - Round of 16 total: 7
 Men's quarter finals winners
- - Quarter finals total: 0
+ - DJOKOVIC SRB N.Djokovic (1) +2
+ - TSITSIPAS GRE S.Tsitsipas (5) +2
+ - NADAL ESP R.Nadal (2) +2
+ - Quarter finals total: 6
 Men's semi finals winners
  - Semi finals total: 0
 Men's finals winner
  - Final total: 0
-[Grand total men's draw: 7]
+[Grand total men's draw: 13]
 
 Women's round of 16 winners
  - SVITOLINA UKR E.Svitolina (3) +1
@@ -584,12 +595,14 @@ Women's round of 16 winners
  - SIEGEMUND GER L.Siegemund +1
  - Round of 16 total: 5
 Women's quarter finals winners
- - Quarter finals total: 0
+ - KENIN USA S.Kenin (4) +2
+ - KVITOVA CZE P.Kvitova (7) +2
+ - Quarter finals total: 4
 Women's semi finals winners
  - Semi finals total: 0
 Women's finals winner
  - Final total: 0
-[Grand total women's draw: 5]
+[Grand total women's draw: 9]
 #################################################
 Player's Winners: Keith
 
@@ -602,12 +615,14 @@ Men's round of 16 winners
  - NADAL ESP R.Nadal (2) +1
  - Round of 16 total: 6
 Men's quarter finals winners
- - Quarter finals total: 0
+ - DJOKOVIC SRB N.Djokovic (1) +2
+ - NADAL ESP R.Nadal (2) +2
+ - Quarter finals total: 4
 Men's semi finals winners
  - Semi finals total: 0
 Men's finals winner
  - Final total: 0
-[Grand total men's draw: 6]
+[Grand total men's draw: 10]
 
 Women's round of 16 winners
  - SVITOLINA UKR E.Svitolina (3) +1
@@ -617,12 +632,14 @@ Women's round of 16 winners
  - KVITOVA CZE P.Kvitova (7) +1
  - Round of 16 total: 5
 Women's quarter finals winners
- - Quarter finals total: 0
+ - KENIN USA S.Kenin (4) +2
+ - KVITOVA CZE P.Kvitova (7) +2
+ - Quarter finals total: 4
 Women's semi finals winners
  - Semi finals total: 0
 Women's finals winner
  - Final total: 0
-[Grand total women's draw: 5]
+[Grand total women's draw: 9]
 #################################################
 Player's Winners: Master Peter
 
@@ -636,12 +653,15 @@ Men's round of 16 winners
  - NADAL ESP R.Nadal (2) +1
  - Round of 16 total: 7
 Men's quarter finals winners
- - Quarter finals total: 0
+ - DJOKOVIC SRB N.Djokovic (1) +2
+ - TSITSIPAS GRE S.Tsitsipas (5) +2
+ - NADAL ESP R.Nadal (2) +2
+ - Quarter finals total: 6
 Men's semi finals winners
  - Semi finals total: 0
 Men's finals winner
  - Final total: 0
-[Grand total men's draw: 7]
+[Grand total men's draw: 13]
 
 Women's round of 16 winners
  - SVITOLINA UKR E.Svitolina (3) +1
@@ -651,12 +671,14 @@ Women's round of 16 winners
  - KVITOVA CZE P.Kvitova (7) +1
  - Round of 16 total: 5
 Women's quarter finals winners
- - Quarter finals total: 0
+ - KENIN USA S.Kenin (4) +2
+ - KVITOVA CZE P.Kvitova (7) +2
+ - Quarter finals total: 4
 Women's semi finals winners
  - Semi finals total: 0
 Women's finals winner
  - Final total: 0
-[Grand total women's draw: 5]
+[Grand total women's draw: 9]
 #################################################
 Player's Winners: Nghia D.
 
@@ -670,12 +692,14 @@ Men's round of 16 winners
  - NADAL ESP R.Nadal (2) +1
  - Round of 16 total: 7
 Men's quarter finals winners
- - Quarter finals total: 0
+ - DJOKOVIC SRB N.Djokovic (1) +2
+ - NADAL ESP R.Nadal (2) +2
+ - Quarter finals total: 4
 Men's semi finals winners
  - Semi finals total: 0
 Men's finals winner
  - Final total: 0
-[Grand total men's draw: 7]
+[Grand total men's draw: 11]
 
 Women's round of 16 winners
  - SVITOLINA UKR E.Svitolina (3) +1
@@ -684,12 +708,14 @@ Women's round of 16 winners
  - KVITOVA CZE P.Kvitova (7) +1
  - Round of 16 total: 4
 Women's quarter finals winners
- - Quarter finals total: 0
+ - KENIN USA S.Kenin (4) +2
+ - KVITOVA CZE P.Kvitova (7) +2
+ - Quarter finals total: 4
 Women's semi finals winners
  - Semi finals total: 0
 Women's finals winner
  - Final total: 0
-[Grand total women's draw: 4]
+[Grand total women's draw: 8]
 #################################################
 Player's Winners: Nirjhar
 
@@ -703,12 +729,15 @@ Men's round of 16 winners
  - NADAL ESP R.Nadal (2) +1
  - Round of 16 total: 7
 Men's quarter finals winners
- - Quarter finals total: 0
+ - DJOKOVIC SRB N.Djokovic (1) +2
+ - TSITSIPAS GRE S.Tsitsipas (5) +2
+ - NADAL ESP R.Nadal (2) +2
+ - Quarter finals total: 6
 Men's semi finals winners
  - Semi finals total: 0
 Men's finals winner
  - Final total: 0
-[Grand total men's draw: 7]
+[Grand total men's draw: 13]
 
 Women's round of 16 winners
  - SVITOLINA UKR E.Svitolina (3) +1
@@ -717,12 +746,14 @@ Women's round of 16 winners
  - KVITOVA CZE P.Kvitova (7) +1
  - Round of 16 total: 4
 Women's quarter finals winners
- - Quarter finals total: 0
+ - KENIN USA S.Kenin (4) +2
+ - KVITOVA CZE P.Kvitova (7) +2
+ - Quarter finals total: 4
 Women's semi finals winners
  - Semi finals total: 0
 Women's finals winner
  - Final total: 0
-[Grand total women's draw: 4]
+[Grand total women's draw: 8]
 #################################################
 Player's Winners: Rajeev Tiwari
 
@@ -736,12 +767,14 @@ Men's round of 16 winners
  - NADAL ESP R.Nadal (2) +1
  - Round of 16 total: 7
 Men's quarter finals winners
- - Quarter finals total: 0
+ - DJOKOVIC SRB N.Djokovic (1) +2
+ - NADAL ESP R.Nadal (2) +2
+ - Quarter finals total: 4
 Men's semi finals winners
  - Semi finals total: 0
 Men's finals winner
  - Final total: 0
-[Grand total men's draw: 7]
+[Grand total men's draw: 11]
 
 Women's round of 16 winners
  - SWIATEK POL I.Swiatek +1
@@ -750,12 +783,14 @@ Women's round of 16 winners
  - KVITOVA CZE P.Kvitova (7) +1
  - Round of 16 total: 4
 Women's quarter finals winners
- - Quarter finals total: 0
+ - SWIATEK POL I.Swiatek +2
+ - KVITOVA CZE P.Kvitova (7) +2
+ - Quarter finals total: 4
 Women's semi finals winners
  - Semi finals total: 0
 Women's finals winner
  - Final total: 0
-[Grand total women's draw: 4]
+[Grand total women's draw: 8]
 #################################################
 Player's Winners: Timmy
 
@@ -769,12 +804,15 @@ Men's round of 16 winners
  - NADAL ESP R.Nadal (2) +1
  - Round of 16 total: 7
 Men's quarter finals winners
- - Quarter finals total: 0
+ - DJOKOVIC SRB N.Djokovic (1) +2
+ - TSITSIPAS GRE S.Tsitsipas (5) +2
+ - NADAL ESP R.Nadal (2) +2
+ - Quarter finals total: 6
 Men's semi finals winners
  - Semi finals total: 0
 Men's finals winner
  - Final total: 0
-[Grand total men's draw: 7]
+[Grand total men's draw: 13]
 
 Women's round of 16 winners
  - SVITOLINA UKR E.Svitolina (3) +1
@@ -782,12 +820,14 @@ Women's round of 16 winners
  - KVITOVA CZE P.Kvitova (7) +1
  - Round of 16 total: 3
 Women's quarter finals winners
- - Quarter finals total: 0
+ - KENIN USA S.Kenin (4) +2
+ - KVITOVA CZE P.Kvitova (7) +2
+ - Quarter finals total: 4
 Women's semi finals winners
  - Semi finals total: 0
 Women's finals winner
  - Final total: 0
-[Grand total women's draw: 3]
+[Grand total women's draw: 7]
 #################################################
 Player's Winners: Ying Xue
 
@@ -801,12 +841,15 @@ Men's round of 16 winners
  - NADAL ESP R.Nadal (2) +1
  - Round of 16 total: 7
 Men's quarter finals winners
- - Quarter finals total: 0
+ - DJOKOVIC SRB N.Djokovic (1) +2
+ - TSITSIPAS GRE S.Tsitsipas (5) +2
+ - NADAL ESP R.Nadal (2) +2
+ - Quarter finals total: 6
 Men's semi finals winners
  - Semi finals total: 0
 Men's finals winner
  - Final total: 0
-[Grand total men's draw: 7]
+[Grand total men's draw: 13]
 
 Women's round of 16 winners
  - SVITOLINA UKR E.Svitolina (3) +1
@@ -816,11 +859,13 @@ Women's round of 16 winners
  - SIEGEMUND GER L.Siegemund +1
  - Round of 16 total: 5
 Women's quarter finals winners
- - Quarter finals total: 0
+ - KENIN USA S.Kenin (4) +2
+ - KVITOVA CZE P.Kvitova (7) +2
+ - Quarter finals total: 4
 Women's semi finals winners
  - Semi finals total: 0
 Women's finals winner
  - Final total: 0
-[Grand total women's draw: 5]
+[Grand total women's draw: 9]
 
 ```
