@@ -752,8 +752,9 @@ Men's semi finals winners
  - NADAL ESP R.Nadal (2) +4
  - Semi finals total: 8
 Men's finals winner
- - Final total: 0
-[Grand total men's draw: 21]
+ - NADAL ESP R.Nadal (2) +8
+ - Final total: 8
+[Grand total men's draw: 29]
 
 Women's round of 16 winners
  - SVITOLINA UKR E.Svitolina (3) +1
@@ -792,8 +793,9 @@ Men's semi finals winners
  - NADAL ESP R.Nadal (2) +4
  - Semi finals total: 8
 Men's finals winner
- - Final total: 0
-[Grand total men's draw: 19]
+ - NADAL ESP R.Nadal (2) +8
+ - Final total: 8
+[Grand total men's draw: 27]
 
 Women's round of 16 winners
  - SWIATEK POL I.Swiatek +1
@@ -832,8 +834,9 @@ Men's semi finals winners
  - NADAL ESP R.Nadal (2) +4
  - Semi finals total: 8
 Men's finals winner
- - Final total: 0
-[Grand total men's draw: 21]
+ - NADAL ESP R.Nadal (2) +8
+ - Final total: 8
+[Grand total men's draw: 29]
 
 Women's round of 16 winners
  - SVITOLINA UKR E.Svitolina (3) +1
@@ -892,5 +895,4 @@ Women's semi finals winners
 Women's finals winner
  - Final total: 0
 [Grand total women's draw: 13]
-
 ```
