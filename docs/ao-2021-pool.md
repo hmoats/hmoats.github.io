@@ -74,6 +74,7 @@ Please note that if there is a tie for first place the 2nd place will NOT be pai
   * R. Nadal (2)
 * Men's Finals
   * D. Thiem (3)
+
 #### Women's Draw
 * Women's round 16
   * A. Barty (1)
@@ -94,6 +95,7 @@ Please note that if there is a tie for first place the 2nd place will NOT be pai
   * I. Swiatek (15)
 * Women's Finals
   * I. Swiatek (15)
+
 ### Keith
 #### Men's Draw
 * Men's round 16
@@ -115,6 +117,7 @@ Please note that if there is a tie for first place the 2nd place will NOT be pai
   * R. Nadal (2)
 * Men's Finals
   * R. Nadal (2)
+
 #### Women's Draw
 * Women's round 16
   * A. Barty (1)
@@ -135,6 +138,7 @@ Please note that if there is a tie for first place the 2nd place will NOT be pai
   * S. Halep (2)
 * Women's Finals
   * S. Halep (2)
+
 ### Nirjhar
 #### Men's Draw
 * Men's round 16
@@ -156,6 +160,7 @@ Please note that if there is a tie for first place the 2nd place will NOT be pai
   * D. Medvedev (4)
 * Men's Finals
   * D. Thiem (3)
+
 #### Women's Draw
 * Women's round 16
   * A. Barty (1)
@@ -176,6 +181,7 @@ Please note that if there is a tie for first place the 2nd place will NOT be pai
   * N. Osaka (3)
 * Women's Finals
   * N. Osaka (3)
+
 ### Rajeev
 #### Men's Draw
 * Men's round 16
@@ -197,6 +203,7 @@ Please note that if there is a tie for first place the 2nd place will NOT be pai
   * R. Nadal (2)
 * Men's Finals
   * R. Nadal (2)
+
 #### Women's Draw
 * Women's round 16
   * A. Barty (1)
@@ -217,6 +224,7 @@ Please note that if there is a tie for first place the 2nd place will NOT be pai
   * S. Halep (2)
 * Women's Finals
   * S. Halep (2)
+
 ### Nghia
 #### Men's Draw
 * Men's round 16
@@ -238,6 +246,7 @@ Please note that if there is a tie for first place the 2nd place will NOT be pai
   * R. Nadal (2)
 * Men's Finals
   * D. Thiem (3)
+
 #### Women's Draw
 * Women's round 16
   * A. Barty (1)
@@ -258,6 +267,7 @@ Please note that if there is a tie for first place the 2nd place will NOT be pai
   * N. Osaka (3)
 * Women's Finals
   * E. Svitolina (5)
+
 ### Henry
 #### Men's Draw
 * Men's round 16
@@ -279,6 +289,7 @@ Please note that if there is a tie for first place the 2nd place will NOT be pai
   * D. Medvedev (4)
 * Men's Finals
   * D. Medvedev (4)
+
 #### Women's Draw
 * Women's round 16
   * A. Barty (1)
@@ -299,6 +310,7 @@ Please note that if there is a tie for first place the 2nd place will NOT be pai
   * I. Swiatek (15)
 * Women's Finals
   * I. Swiatek (15)
+
 ### Timmy
 #### Men's Draw
 * Men's round 16
@@ -320,6 +332,7 @@ Please note that if there is a tie for first place the 2nd place will NOT be pai
   * D. Medvedev (4)
 * Men's Finals
   * D. Thiem (3)
+
 #### Women's Draw
 * Women's round 16
   * A. Barty (1)
@@ -362,6 +375,7 @@ Please note that if there is a tie for first place the 2nd place will NOT be pai
   * R. Nadal (2)
 * Men's Finals
   * R. Nadal (2)
+
 #### Women's Draw
 * Women's round 16
   * A. Barty (1)
