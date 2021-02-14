@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# SRFTC French Open 2021 Pool
+# SRFTC Australian Open 2021 Pool
 
 ## Contents
 
