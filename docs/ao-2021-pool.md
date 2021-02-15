@@ -396,6 +396,10 @@ Please note that if there is a tie for first place the 2nd place will NOT be pai
   * A. Sabalenka (7)
 * Women's Finals
   * A. Barty (1)
+
+## Results
+
+```
 #################################################
 Player's Winners: IPA Ray
  
@@ -427,6 +431,7 @@ Women's semi finals winners
 Women's finals winner
  - Final total: 0
 [Grand total women's draw: 4]
+
 #################################################
 Player's Winners: Keith
  
@@ -464,6 +469,7 @@ Women's semi finals winners
 Women's finals winner
  - Final total: 0
 [Grand total women's draw: 8]
+
 #################################################
 Player's Winners: Nirjhar
  
@@ -496,6 +502,7 @@ Women's semi finals winners
 Women's finals winner
  - Final total: 0
 [Grand total women's draw: 4]
+
 #################################################
 Player's Winners: Rajeev
  
@@ -518,15 +525,20 @@ Women's round of 16 winners
  - A. Barty (1) +1
  - N. Osaka (3) +1
  - S. Williams (10) +1
+ - N. Osaka (3) +1
+ - S. Williams (10) +1
  - S. Halep (2) +1
  - Round of 16 total: 4
 Women's quarter finals winners
  - Quarter finals total: 0
 Women's semi finals winners
  - Semi finals total: 0
+Women's semi finals winners
+ - Semi finals total: 0
 Women's finals winner
  - Final total: 0
 [Grand total women's draw: 4]
+
 #################################################
 Player's Winners: Nghia
  
@@ -559,6 +571,7 @@ Women's semi finals winners
 Women's finals winner
  - Final total: 0
 [Grand total women's draw: 5]
+
 #################################################
 Player's Winners: Henry
  
@@ -589,6 +602,7 @@ Women's semi finals winners
 Women's finals winner
  - Final total: 0
 [Grand total women's draw: 4]
+
 #################################################
 Player's Winners: Timmy
  
@@ -622,6 +636,7 @@ Women's semi finals winners
 Women's finals winner
  - Final total: 0
 [Grand total women's draw: 5]
+
 #################################################
 Player's Winners: Collin 
  
@@ -655,30 +670,19 @@ Women's finals winner
  - Final total: 0
 [Grand total women's draw: 5]
  
-Totals for 02/15/21
-_________________________________________________
-*Player: IPA Ray*
- > Men's total: 5
- > Women's total: 4
-*Player: Keith*
- > Men's total: 7
- > Women's total: 8
-*Player: Nirjhar*
- > Men's total: 6
- > Women's total: 4
-*Player: Rajeev*
- > Men's total: 5
- > Women's total: 4
-*Player: Nghia*
- > Men's total: 5
- > Women's total: 5
-*Player: Henry*
- > Men's total: 4
- > Women's total: 4
-*Player: Timmy*
- > Men's total: 6
- > Women's total: 5
-*Player: Collin *
- > Men's total: 5
- > Women's total: 5
+---
+layout: default
+---
 
+# SRFTC Australian Open 2021 Pool
+
+## Contents
+
+- [Rules](#rules)
+- [Players](#players)
+  - [IPA Ray](#ipa-ray)
+  - [Keith](#keith)
+  - [Nirjhar](#nirjhar)
+  - [Rajeev](#rajeev)
+  - [Nghia](#nghia)
+```
