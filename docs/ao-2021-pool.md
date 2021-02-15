@@ -396,3 +396,289 @@ Please note that if there is a tie for first place the 2nd place will NOT be pai
   * A. Sabalenka (7)
 * Women's Finals
   * A. Barty (1)
+#################################################
+Player's Winners: IPA Ray
+ 
+Men's round of 16 winners
+ - A. Zverev (6) +1
+ - A. Rublev (7) +1
+ - D. Medvedev (4) +1
+ - S. Tsitsipas (5) +1
+ - R. Nadal (2) +1
+ - Round of 16 total: 5
+Men's quarter finals winners
+ - Quarter finals total: 0
+Men's semi finals winners
+ - Semi finals total: 0
+Men's finals winner
+ - Final total: 0
+[Grand total men's draw: 5]
+ 
+Women's round of 16 winners
+ - A. Barty (1) +1
+ - J. Brady (22) +1
+ - N. Osaka (3) +1
+ - S. Williams (10) +1
+ - Round of 16 total: 4
+Women's quarter finals winners
+ - Quarter finals total: 0
+Women's semi finals winners
+ - Semi finals total: 0
+Women's finals winner
+ - Final total: 0
+[Grand total women's draw: 4]
+#################################################
+Player's Winners: Keith
+ 
+Men's round of 16 winners
+ - N. Djokovic (1) +1
+ - A. Zverev (6) +1
+ - A. Karatsev (Q) +1
+ - A. Rublev (7) +1
+ - D. Medvedev (4) +1
+ - S. Tsitsipas (5) +1
+ - R. Nadal (2) +1
+ - Round of 16 total: 7
+Men's quarter finals winners
+ - Quarter finals total: 0
+Men's semi finals winners
+ - Semi finals total: 0
+Men's finals winner
+ - Final total: 0
+[Grand total men's draw: 7]
+ 
+Women's round of 16 winners
+ - A. Barty (1) +1
+ - K. Muchova (25) +1
+ - J. Brady (22) +1
+ - J. Pegula +1
+ - S. Hsieh +1
+ - N. Osaka (3) +1
+ - S. Williams (10) +1
+ - S. Halep (2) +1
+ - Round of 16 total: 8
+Women's quarter finals winners
+ - Quarter finals total: 0
+Women's semi finals winners
+ - Semi finals total: 0
+Women's finals winner
+ - Final total: 0
+[Grand total women's draw: 8]
+#################################################
+Player's Winners: Nirjhar
+ 
+Men's round of 16 winners
+ - N. Djokovic (1) +1
+ - A. Zverev (6) +1
+ - A. Rublev (7) +1
+ - D. Medvedev (4) +1
+ - S. Tsitsipas (5) +1
+ - R. Nadal (2) +1
+ - Round of 16 total: 6
+Men's quarter finals winners
+ - Quarter finals total: 0
+Men's semi finals winners
+ - Semi finals total: 0
+Men's finals winner
+ - Final total: 0
+[Grand total men's draw: 6]
+ 
+Women's round of 16 winners
+ - A. Barty (1) +1
+ - J. Brady (22) +1
+ - N. Osaka (3) +1
+ - S. Halep (2) +1
+ - Round of 16 total: 4
+Women's quarter finals winners
+ - Quarter finals total: 0
+Women's semi finals winners
+ - Semi finals total: 0
+Women's finals winner
+ - Final total: 0
+[Grand total women's draw: 4]
+#################################################
+Player's Winners: Rajeev
+ 
+Men's round of 16 winners
+ - A. Zverev (6) +1
+ - A. Rublev (7) +1
+ - D. Medvedev (4) +1
+ - S. Tsitsipas (5) +1
+ - R. Nadal (2) +1
+ - Round of 16 total: 5
+Men's quarter finals winners
+ - Quarter finals total: 0
+Men's semi finals winners
+ - Semi finals total: 0
+Men's finals winner
+ - Final total: 0
+[Grand total men's draw: 5]
+ 
+Women's round of 16 winners
+ - A. Barty (1) +1
+ - N. Osaka (3) +1
+ - S. Williams (10) +1
+ - S. Halep (2) +1
+ - Round of 16 total: 4
+Women's quarter finals winners
+ - Quarter finals total: 0
+Women's semi finals winners
+ - Semi finals total: 0
+Women's finals winner
+ - Final total: 0
+[Grand total women's draw: 4]
+#################################################
+Player's Winners: Nghia
+ 
+Men's round of 16 winners
+ - A. Zverev (6) +1
+ - A. Rublev (7) +1
+ - D. Medvedev (4) +1
+ - S. Tsitsipas (5) +1
+ - R. Nadal (2) +1
+ - Round of 16 total: 5
+Men's quarter finals winners
+ - Quarter finals total: 0
+Men's semi finals winners
+ - Semi finals total: 0
+Men's finals winner
+ - Final total: 0
+[Grand total men's draw: 5]
+ 
+Women's round of 16 winners
+ - A. Barty (1) +1
+ - J. Brady (22) +1
+ - N. Osaka (3) +1
+ - S. Williams (10) +1
+ - S. Halep (2) +1
+ - Round of 16 total: 5
+Women's quarter finals winners
+ - Quarter finals total: 0
+Women's semi finals winners
+ - Semi finals total: 0
+Women's finals winner
+ - Final total: 0
+[Grand total women's draw: 5]
+#################################################
+Player's Winners: Henry
+ 
+Men's round of 16 winners
+ - A. Zverev (6) +1
+ - A. Rublev (7) +1
+ - D. Medvedev (4) +1
+ - R. Nadal (2) +1
+ - Round of 16 total: 4
+Men's quarter finals winners
+ - Quarter finals total: 0
+Men's semi finals winners
+ - Semi finals total: 0
+Men's finals winner
+ - Final total: 0
+[Grand total men's draw: 4]
+ 
+Women's round of 16 winners
+ - A. Barty (1) +1
+ - K. Muchova (25) +1
+ - J. Brady (22) +1
+ - N. Osaka (3) +1
+ - Round of 16 total: 4
+Women's quarter finals winners
+ - Quarter finals total: 0
+Women's semi finals winners
+ - Semi finals total: 0
+Women's finals winner
+ - Final total: 0
+[Grand total women's draw: 4]
+#################################################
+Player's Winners: Timmy
+ 
+Men's round of 16 winners
+ - N. Djokovic (1) +1
+ - A. Zverev (6) +1
+ - A. Rublev (7) +1
+ - D. Medvedev (4) +1
+ - S. Tsitsipas (5) +1
+ - R. Nadal (2) +1
+ - Round of 16 total: 6
+Men's quarter finals winners
+ - Quarter finals total: 0
+Men's semi finals winners
+ - Semi finals total: 0
+Men's finals winner
+ - Final total: 0
+[Grand total men's draw: 6]
+ 
+Women's round of 16 winners
+ - A. Barty (1) +1
+ - K. Muchova (25) +1
+ - J. Brady (22) +1
+ - N. Osaka (3) +1
+ - S. Williams (10) +1
+ - Round of 16 total: 5
+Women's quarter finals winners
+ - Quarter finals total: 0
+Women's semi finals winners
+ - Semi finals total: 0
+Women's finals winner
+ - Final total: 0
+[Grand total women's draw: 5]
+#################################################
+Player's Winners: Collin 
+ 
+Men's round of 16 winners
+ - A. Zverev (6) +1
+ - A. Rublev (7) +1
+ - D. Medvedev (4) +1
+ - S. Tsitsipas (5) +1
+ - R. Nadal (2) +1
+ - Round of 16 total: 5
+Men's quarter finals winners
+ - Quarter finals total: 0
+Men's semi finals winners
+ - Semi finals total: 0
+Men's finals winner
+ - Final total: 0
+[Grand total men's draw: 5]
+ 
+Women's round of 16 winners
+ - A. Barty (1) +1
+ - K. Muchova (25) +1
+ - J. Brady (22) +1
+ - N. Osaka (3) +1
+ - S. Halep (2) +1
+ - Round of 16 total: 5
+Women's quarter finals winners
+ - Quarter finals total: 0
+Women's semi finals winners
+ - Semi finals total: 0
+Women's finals winner
+ - Final total: 0
+[Grand total women's draw: 5]
+ 
+Totals for 02/15/21
+_________________________________________________
+*Player: IPA Ray*
+ > Men's total: 5
+ > Women's total: 4
+*Player: Keith*
+ > Men's total: 7
+ > Women's total: 8
+*Player: Nirjhar*
+ > Men's total: 6
+ > Women's total: 4
+*Player: Rajeev*
+ > Men's total: 5
+ > Women's total: 4
+*Player: Nghia*
+ > Men's total: 5
+ > Women's total: 5
+*Player: Henry*
+ > Men's total: 4
+ > Women's total: 4
+*Player: Timmy*
+ > Men's total: 6
+ > Women's total: 5
+*Player: Collin *
+ > Men's total: 5
+ > Women's total: 5
+
