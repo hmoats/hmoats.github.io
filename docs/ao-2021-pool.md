@@ -669,20 +669,4 @@ Women's semi finals winners
 Women's finals winner
  - Final total: 0
 [Grand total women's draw: 5]
- 
----
-layout: default
----
-
-# SRFTC Australian Open 2021 Pool
-
-## Contents
-
-- [Rules](#rules)
-- [Players](#players)
-  - [IPA Ray](#ipa-ray)
-  - [Keith](#keith)
-  - [Nirjhar](#nirjhar)
-  - [Rajeev](#rajeev)
-  - [Nghia](#nghia)
 ```
