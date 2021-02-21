@@ -490,10 +490,11 @@ Men's quarter finals winners
  - D. Medvedev (4) +2
  - Quarter finals total: 4
 Men's semi finals winners
- - Semi finals total: 0
+ - D. Medvedev (4) +4
+ - Semi finals total: 4
 Men's finals winner
  - Final total: 0
-[Grand total men's draw: 10]
+[Grand total men's draw: 14]
  
 Women's round of 16 winners
  - A. Barty (1) +1
@@ -505,10 +506,12 @@ Women's quarter finals winners
  - N. Osaka (3) +2
  - Quarter finals total: 2
 Women's semi finals winners
- - Semi finals total: 0
+ - N. Osaka (3) +4
+ - Semi finals total: 4
 Women's finals winner
- - Final total: 0
-[Grand total women's draw: 6]
+ - N. Osaka (3) +8
+ - Final total: 8
+[Grand total women's draw: 18]
 #################################################
 Player's Winners: Rajeev
  
@@ -572,10 +575,11 @@ Women's quarter finals winners
  - N. Osaka (3) +2
  - Quarter finals total: 2
 Women's semi finals winners
- - Semi finals total: 0
+ - N. Osaka (3) +4
+ - Semi finals total: 4
 Women's finals winner
  - Final total: 0
-[Grand total women's draw: 7]
+[Grand total women's draw: 11]
 #################################################
 Player's Winners: Henry
  
@@ -589,10 +593,11 @@ Men's quarter finals winners
  - D. Medvedev (4) +2
  - Quarter finals total: 2
 Men's semi finals winners
- - Semi finals total: 0
+ - D. Medvedev (4) +4
+ - Semi finals total: 4
 Men's finals winner
  - Final total: 0
-[Grand total men's draw: 6]
+[Grand total men's draw: 10]
  
 Women's round of 16 winners
  - A. Barty (1) +1
@@ -624,10 +629,11 @@ Men's quarter finals winners
  - D. Medvedev (4) +2
  - Quarter finals total: 4
 Men's semi finals winners
- - Semi finals total: 0
+ - D. Medvedev (4) +4
+ - Semi finals total: 4
 Men's finals winner
  - Final total: 0
-[Grand total men's draw: 10]
+[Grand total men's draw: 14]
  
 Women's round of 16 winners
  - A. Barty (1) +1
@@ -642,10 +648,12 @@ Women's quarter finals winners
  - S. Williams (10) +2
  - Quarter finals total: 6
 Women's semi finals winners
- - Semi finals total: 0
+ - N. Osaka (3) +4
+ - Semi finals total: 4
 Women's finals winner
- - Final total: 0
-[Grand total women's draw: 11]
+ - N. Osaka (3) +8
+ - Final total: 8
+[Grand total women's draw: 23]
 #################################################
 Player's Winners: Collin 
  
@@ -680,5 +688,4 @@ Women's semi finals winners
 Women's finals winner
  - Final total: 0
 [Grand total women's draw: 7]
- 
-```
+``` 
