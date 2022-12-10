@@ -4,7 +4,7 @@ layout: default
 
 # Welcome
 
-I specialize in enterprise, public and private cloud network and security services. Please see my [resume](/doc/Henry-Moats-Resume-For-Github-IO.pdf) for more details.
+My name is Henry Moats and I specialize in enterprise, public and private cloud network and security services. Please see my [resume](/docs/Henry-Moats-Resume-For-Github-IO.pdf) for more details.
 
 If you'd like to send me a message, you can reach me on [LinkedIn](https://linkedin.com/hmoats)
 
