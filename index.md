@@ -15,5 +15,9 @@ If you'd like to send me a message, you can reach me on **[LinkedIn](https://lin
 #### Observability and Tooling
 - [Cacti monitoring deployment](https://github.com/hmoats/cacti)
 
-#### Design and Strategy
+#### Design
 - [Collection of IT build, datacenter and network design documents](https://github.com/hmoats/group-design-docs-public)
+
+#### Projects
+- [Deploying Kubernetes on AWS Using kops](/docs/kops/Deploying-kubernetes-on-AWS-using-kops.md)
+
