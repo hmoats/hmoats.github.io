@@ -10,7 +10,10 @@ If you'd like to send me a message, you can reach me on **[LinkedIn](https://lin
 
 ---
 
-### From [my github](https://github.com/hmoats)
+### Topics
 
+#### Observability and Tooling
 - [Cacti monitoring deployment](https://github.com/hmoats/cacti)
+
+#### Design and Strategy
 - [Collection of IT build, datacenter and network design documents](https://github.com/hmoats/group-design-docs-public)
