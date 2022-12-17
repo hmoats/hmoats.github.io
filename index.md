@@ -9,6 +9,7 @@ My name is Henry Moats and I'm a networking professional with hands-on experienc
 If you'd like to send me a message, you can reach me on **[LinkedIn](https://linkedin.com/in/hmoats)**
 
 ![](20221217114354.png)  
+
 ---
 
 ### Topics
