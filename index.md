@@ -1,8 +1,6 @@
 ---
 layout: default
 ---
-![](20221217114354.png)
-
 # Welcome
 
 My name is Henry Moats and I'm a networking professional with hands-on experience in enteprise and production private and public cloud infrastructure, automation, monitoring, performance, security and availability. Please see my **[resume](/docs/Henry-Moats-Resume-For-Github-IO.pdf)** for more details.
