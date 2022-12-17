@@ -16,8 +16,11 @@ If you'd like to send me a message, you can reach me on **[LinkedIn](https://lin
 - [Cacti monitoring deployment](https://github.com/hmoats/cacti)
 
 #### Design
-- [Collection of IT build, datacenter and network design documents](https://github.com/hmoats/group-design-docs-public)
-
+- [Small Office Build Project](https://github.com/hmoats/group-design-docs-public/tree/master/Small-Office-Build-Project1)
+- [Enterprise Office Build Project](https://github.com/hmoats/group-design-docs-public/tree/master/Enterprise-Office-Build-Project1)
+- [Dell and BigSwitch Network Build](https://github.com/hmoats/group-design-docs-public/tree/master/Dell-and-BigSwitch-Network-Build-Project)
+- [Cisco L3 Leaf and Spine Fabirc](https://github.com/hmoats/group-design-docs-public/tree/master/Cisco-L3-Spine-Leaf-Network-Build-Project) 
+  
 #### Labs
 - [Office Edge with No Router, No BGP](/docs/VIRL-Labs/Office-Edge-No-Router-No-BGP/README.md)
 - [Enterprise Site to Site VPNs with VTIs and BGP](/docs/Cisco/Enterprise-Site-to-Site-VPN-with-ASA-VTIs.md)
