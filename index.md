@@ -12,8 +12,13 @@ If you'd like to send me a message, you can reach me on **[LinkedIn](https://lin
 
 ### Topics
 
-#### Observability and Tooling
+#### Observability
 - [Cacti monitoring deployment](https://github.com/hmoats/cacti)
+- Oxidized Deployment
+
+#### Tools
+- [Ansible playbooks](https://github.com/hmoats/group-ansible)
+- [Various tools](https://github.com/hmoats/group-net-tools)
 
 #### Design
 - [Small Office Build Project](https://github.com/hmoats/group-design-docs-public/tree/master/Small-Office-Build-Project1)
