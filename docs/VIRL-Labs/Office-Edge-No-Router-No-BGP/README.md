@@ -9,6 +9,7 @@ This design is for offices with dual Internet connections and firewalls at the t
 - ISP load balancing
 - Low complexity
 - Dynamic redundancy
+  
 ### Cons
 - ISP link health is determined by IP SLA. This method can be problematic depending on which SLA targets you specify.
 - No traffic engineering
